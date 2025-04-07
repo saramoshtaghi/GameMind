@@ -4,7 +4,7 @@ GameQA is a fine-tuned BERT-based Question Answering system trained to understan
 
 ![GameQA Logo](./assets/gameqa_logo.png)
 
-## 📌 Project Goal
+## 📌 Project Goals
 
 The goal is to build a domain-specific QA model that can:
 - Understand questions about video games
