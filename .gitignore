@@ -26,3 +26,4 @@ __pycache__/
 
 # Ignore models folder if needed
 notebook/models/
+notebook/models/
