@@ -1,0 +1,28 @@
+# Ignore model checkpoints and large files
+*.pt
+*.safetensors
+*.bin
+
+# Hugging Face checkpoints
+checkpoint-*/
+pytorch_model.bin
+tf_model.h5
+optimizer.pt
+scheduler.pt
+training_args.bin
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore data and outputs
+data/
+outputs/
+
+# VSCode and system files
+.vscode/
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Ignore models folder if needed
+notebook/models/
