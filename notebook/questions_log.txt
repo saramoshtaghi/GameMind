@@ -1,0 +1,8 @@
+Game: Minecraft
+Question: 1
+Answer: minecraft is a 2011 sandbox game developed and published by swedish video game developer mojang studios.
+---
+Game: Minecraft
+Question: when this game was developed?
+Answer: minecraft is a 2011 sandbox game developed and published by swedish video game developer mojang studios.
+---
